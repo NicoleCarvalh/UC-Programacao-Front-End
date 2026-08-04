@@ -16,8 +16,11 @@ Faça os exercícios a seguir escrevendo código JavaScript a ser vinculado à s
 ### Essenciais
 
 1. Crie uma função que receba três números como parâmetros e determine qual é o maior entre eles. Determine qual o maior entre eles e imprima-o no console.
+
 2. Escreva uma função chamada `concatenar3` que aceita 4 parâmetros, sendo os três primeiros palavras a serem concatenadas, e o quarto o separador que será utilizado entre elas. Retorne as palavras concatenadas, com o separador entre elas. Defina o valor padrão do parâmetro separador como `“ | “`.
+
 3. Escreva uma função que recebe um número de minutos como parâmetro e retorna a representação do mesmo tempo em horas.
+
 4. Você está indo de carro para uma nova cidade para uma pequena viagem de fim de semana. Escreva uma função chamada retornarQuantidadeDeGasolina que receba dois números como parâmetros:
 	- o número de quilômetros até o seu destino
 	- o consumo médio em litros por 100 km
