@@ -21,7 +21,7 @@ console.log(pessoa.idade);
 console.log(pessoa.email);
 console.log(pessoa.vacinas)
 
-console.log(Object.hasOwn(pessoa, "cpf"))
+console.log("Tem propriedade? - " + Object.hasOwn(pessoa, "cpf"))
 console.log("cpf" in pessoa)
 console.log("telefone" in pessoa)
 console.log("nome" in pessoa)
